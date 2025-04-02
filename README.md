@@ -4,7 +4,7 @@ A simple decentralized exchange (DEX) built using Thirdweb, Next.js, and TypeScr
 
 # Features
 
-Swap ERC-20 tokens seamlessly
-Connect your wallet (Metamask, WalletConnect, etc.)
-View token balances
-Smooth UI with Next.js & Tailwind CSS
+- Swap ERC-20 tokens seamlessly
+- Connect your wallet (Metamask, WalletConnect, etc.)
+- View token balances
+- Smooth UI with Next.js & Tailwind CSS
